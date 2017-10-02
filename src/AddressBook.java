@@ -11,8 +11,8 @@ public class AddressBook {
 		addressBook.addBuddy(buddy);
 		addressBook.removeBuddy(buddy);
 	}
-	kjn
-	//default address book constructor
+	
+	//default address book constructor.
 	public AddressBook() {
 		this.buddyList = new ArrayList<BuddyInfo>();
 	}
