@@ -1,6 +1,6 @@
 
 public class BuddyInfo {
-
+//swag
 	String name;
 	String address;
 	String phoneNumber;
